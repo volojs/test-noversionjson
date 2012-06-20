@@ -1,0 +1,6 @@
+{
+    "name": "test-noversionjson",
+    "volo": {
+        "url": "https://raw.github.com/volojs/test-noversionjson/{version}/lib.js"
+    }
+}
